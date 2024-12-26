@@ -46,7 +46,17 @@ cd src
 sh test.sh
 ```
 
+## Citation
+If you find Granular-DQ useful or relevant to your project and research, please kindly cite our paper:)
 
+```bibtex
+@misc{wang2024thinking,
+  title={Thinking in Granularity: Dynamic Quantization for Image Super-Resolution by Intriguing Multi-Granularity Clues},
+  author={Wang, Mingshen and Zhang, Zhao and Li, Feng and Xu, Ke and Miao, Kang and Wang, Meng},
+  journal={arXiv preprint arXiv:2409.14330},
+  year={2024}
+}
+```
 
 ## Comments
 Our implementation is based on [EDSR(PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch), [CADyQ](https://github.com/Cheeun/CADyQ), [QuantSR](https://github.com/htqin/QuantSR), [SwinIR](https://github.com/JingyunLiang/SwinIR), [BasicSR](https://github.com/XPixelGroup/BasicSR). Thanks for these excellent works!
